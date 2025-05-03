@@ -7,3 +7,7 @@ int main() {
 
     return 0;
 }
+
+int ticketing_function(){
+    return 0;
+}
